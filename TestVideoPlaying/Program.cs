@@ -102,9 +102,9 @@ internal class Program
                 output.Flush();
             }
         }
-        catch (Exception ex)
+        catch (Exception exception)
         {
-            Console.WriteLine("Error serving file: " + ex.Message);
+            Console.WriteLine($"Error serving file: {exception.Message}");
         }
         finally
         {

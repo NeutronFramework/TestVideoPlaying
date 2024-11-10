@@ -1,0 +1,6 @@
+{
+  "ProjectName": "TestVideoPlaying",
+  "DotnetVersion": "net8",
+  "FrontendName": "test-video-playing-frontend",
+  "BackendName": "TestVideoPlaying"
+}

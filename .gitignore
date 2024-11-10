@@ -1,0 +1,5 @@
+TestVideoPlaying/bin
+TestVideoPlaying/dist
+TestVideoPlaying/obj
+TestVideoPlaying/.vs
+test-video-playing-frontend/node_modules
